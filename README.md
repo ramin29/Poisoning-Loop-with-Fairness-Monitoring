@@ -1,4 +1,4 @@
-# Compas-aml-audit
+# Exerscise 5: Compas-aml-audit
 
 Adversarial machine learning audit on the ProPublica COMPAS recidivism dataset.
 Coursework for DNSC 6330 (Responsible Machine Learning), Homework 5.
